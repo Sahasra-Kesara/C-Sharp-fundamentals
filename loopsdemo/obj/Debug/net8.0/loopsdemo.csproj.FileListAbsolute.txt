@@ -1,0 +1,14 @@
+D:\ASPdotNET\Practice\loopsdemo\bin\Debug\net8.0\loopsdemo.exe
+D:\ASPdotNET\Practice\loopsdemo\bin\Debug\net8.0\loopsdemo.deps.json
+D:\ASPdotNET\Practice\loopsdemo\bin\Debug\net8.0\loopsdemo.runtimeconfig.json
+D:\ASPdotNET\Practice\loopsdemo\bin\Debug\net8.0\loopsdemo.dll
+D:\ASPdotNET\Practice\loopsdemo\bin\Debug\net8.0\loopsdemo.pdb
+D:\ASPdotNET\Practice\loopsdemo\obj\Debug\net8.0\loopsdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\Practice\loopsdemo\obj\Debug\net8.0\loopsdemo.AssemblyInfoInputs.cache
+D:\ASPdotNET\Practice\loopsdemo\obj\Debug\net8.0\loopsdemo.AssemblyInfo.cs
+D:\ASPdotNET\Practice\loopsdemo\obj\Debug\net8.0\loopsdemo.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\Practice\loopsdemo\obj\Debug\net8.0\loopsdemo.dll
+D:\ASPdotNET\Practice\loopsdemo\obj\Debug\net8.0\refint\loopsdemo.dll
+D:\ASPdotNET\Practice\loopsdemo\obj\Debug\net8.0\loopsdemo.pdb
+D:\ASPdotNET\Practice\loopsdemo\obj\Debug\net8.0\loopsdemo.genruntimeconfig.cache
+D:\ASPdotNET\Practice\loopsdemo\obj\Debug\net8.0\ref\loopsdemo.dll

@@ -1,0 +1,14 @@
+D:\ASPdotNET\Practice\strings\bin\Debug\net8.0\strings.exe
+D:\ASPdotNET\Practice\strings\bin\Debug\net8.0\strings.deps.json
+D:\ASPdotNET\Practice\strings\bin\Debug\net8.0\strings.runtimeconfig.json
+D:\ASPdotNET\Practice\strings\bin\Debug\net8.0\strings.dll
+D:\ASPdotNET\Practice\strings\bin\Debug\net8.0\strings.pdb
+D:\ASPdotNET\Practice\strings\obj\Debug\net8.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\Practice\strings\obj\Debug\net8.0\strings.AssemblyInfoInputs.cache
+D:\ASPdotNET\Practice\strings\obj\Debug\net8.0\strings.AssemblyInfo.cs
+D:\ASPdotNET\Practice\strings\obj\Debug\net8.0\strings.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\Practice\strings\obj\Debug\net8.0\strings.dll
+D:\ASPdotNET\Practice\strings\obj\Debug\net8.0\refint\strings.dll
+D:\ASPdotNET\Practice\strings\obj\Debug\net8.0\strings.pdb
+D:\ASPdotNET\Practice\strings\obj\Debug\net8.0\strings.genruntimeconfig.cache
+D:\ASPdotNET\Practice\strings\obj\Debug\net8.0\ref\strings.dll

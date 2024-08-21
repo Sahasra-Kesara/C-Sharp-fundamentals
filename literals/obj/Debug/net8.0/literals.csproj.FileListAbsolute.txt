@@ -1,0 +1,14 @@
+D:\ASPdotNET\literals\bin\Debug\net8.0\literals.exe
+D:\ASPdotNET\literals\bin\Debug\net8.0\literals.deps.json
+D:\ASPdotNET\literals\bin\Debug\net8.0\literals.runtimeconfig.json
+D:\ASPdotNET\literals\bin\Debug\net8.0\literals.dll
+D:\ASPdotNET\literals\bin\Debug\net8.0\literals.pdb
+D:\ASPdotNET\literals\obj\Debug\net8.0\literals.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\literals\obj\Debug\net8.0\literals.AssemblyInfoInputs.cache
+D:\ASPdotNET\literals\obj\Debug\net8.0\literals.AssemblyInfo.cs
+D:\ASPdotNET\literals\obj\Debug\net8.0\literals.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\literals\obj\Debug\net8.0\literals.dll
+D:\ASPdotNET\literals\obj\Debug\net8.0\refint\literals.dll
+D:\ASPdotNET\literals\obj\Debug\net8.0\literals.pdb
+D:\ASPdotNET\literals\obj\Debug\net8.0\literals.genruntimeconfig.cache
+D:\ASPdotNET\literals\obj\Debug\net8.0\ref\literals.dll

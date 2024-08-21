@@ -1,0 +1,14 @@
+D:\ASPdotNET\Practice\forloops\bin\Debug\net8.0\forloops.exe
+D:\ASPdotNET\Practice\forloops\bin\Debug\net8.0\forloops.deps.json
+D:\ASPdotNET\Practice\forloops\bin\Debug\net8.0\forloops.runtimeconfig.json
+D:\ASPdotNET\Practice\forloops\bin\Debug\net8.0\forloops.dll
+D:\ASPdotNET\Practice\forloops\bin\Debug\net8.0\forloops.pdb
+D:\ASPdotNET\Practice\forloops\obj\Debug\net8.0\forloops.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\Practice\forloops\obj\Debug\net8.0\forloops.AssemblyInfoInputs.cache
+D:\ASPdotNET\Practice\forloops\obj\Debug\net8.0\forloops.AssemblyInfo.cs
+D:\ASPdotNET\Practice\forloops\obj\Debug\net8.0\forloops.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\Practice\forloops\obj\Debug\net8.0\forloops.dll
+D:\ASPdotNET\Practice\forloops\obj\Debug\net8.0\refint\forloops.dll
+D:\ASPdotNET\Practice\forloops\obj\Debug\net8.0\forloops.pdb
+D:\ASPdotNET\Practice\forloops\obj\Debug\net8.0\forloops.genruntimeconfig.cache
+D:\ASPdotNET\Practice\forloops\obj\Debug\net8.0\ref\forloops.dll

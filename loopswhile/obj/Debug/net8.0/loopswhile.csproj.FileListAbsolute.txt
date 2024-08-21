@@ -1,0 +1,14 @@
+D:\ASPdotNET\Practice\loopswhile\bin\Debug\net8.0\loopswhile.exe
+D:\ASPdotNET\Practice\loopswhile\bin\Debug\net8.0\loopswhile.deps.json
+D:\ASPdotNET\Practice\loopswhile\bin\Debug\net8.0\loopswhile.runtimeconfig.json
+D:\ASPdotNET\Practice\loopswhile\bin\Debug\net8.0\loopswhile.dll
+D:\ASPdotNET\Practice\loopswhile\bin\Debug\net8.0\loopswhile.pdb
+D:\ASPdotNET\Practice\loopswhile\obj\Debug\net8.0\loopswhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\Practice\loopswhile\obj\Debug\net8.0\loopswhile.AssemblyInfoInputs.cache
+D:\ASPdotNET\Practice\loopswhile\obj\Debug\net8.0\loopswhile.AssemblyInfo.cs
+D:\ASPdotNET\Practice\loopswhile\obj\Debug\net8.0\loopswhile.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\Practice\loopswhile\obj\Debug\net8.0\loopswhile.dll
+D:\ASPdotNET\Practice\loopswhile\obj\Debug\net8.0\refint\loopswhile.dll
+D:\ASPdotNET\Practice\loopswhile\obj\Debug\net8.0\loopswhile.pdb
+D:\ASPdotNET\Practice\loopswhile\obj\Debug\net8.0\loopswhile.genruntimeconfig.cache
+D:\ASPdotNET\Practice\loopswhile\obj\Debug\net8.0\ref\loopswhile.dll

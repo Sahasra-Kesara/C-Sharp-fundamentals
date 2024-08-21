@@ -1,0 +1,14 @@
+D:\ASPdotNET\Practice\PatternWithSwitch\obj\Debug\net8.0\PatternWithSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\Practice\PatternWithSwitch\obj\Debug\net8.0\PatternWithSwitch.AssemblyInfoInputs.cache
+D:\ASPdotNET\Practice\PatternWithSwitch\obj\Debug\net8.0\PatternWithSwitch.AssemblyInfo.cs
+D:\ASPdotNET\Practice\PatternWithSwitch\obj\Debug\net8.0\PatternWithSwitch.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\Practice\PatternWithSwitch\bin\Debug\net8.0\PatternWithSwitch.exe
+D:\ASPdotNET\Practice\PatternWithSwitch\bin\Debug\net8.0\PatternWithSwitch.deps.json
+D:\ASPdotNET\Practice\PatternWithSwitch\bin\Debug\net8.0\PatternWithSwitch.runtimeconfig.json
+D:\ASPdotNET\Practice\PatternWithSwitch\bin\Debug\net8.0\PatternWithSwitch.dll
+D:\ASPdotNET\Practice\PatternWithSwitch\bin\Debug\net8.0\PatternWithSwitch.pdb
+D:\ASPdotNET\Practice\PatternWithSwitch\obj\Debug\net8.0\PatternWithSwitch.dll
+D:\ASPdotNET\Practice\PatternWithSwitch\obj\Debug\net8.0\refint\PatternWithSwitch.dll
+D:\ASPdotNET\Practice\PatternWithSwitch\obj\Debug\net8.0\PatternWithSwitch.pdb
+D:\ASPdotNET\Practice\PatternWithSwitch\obj\Debug\net8.0\PatternWithSwitch.genruntimeconfig.cache
+D:\ASPdotNET\Practice\PatternWithSwitch\obj\Debug\net8.0\ref\PatternWithSwitch.dll

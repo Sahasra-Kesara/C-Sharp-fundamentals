@@ -1,0 +1,14 @@
+D:\ASPdotNET\Practice\variables\bin\Debug\net8.0\variables.exe
+D:\ASPdotNET\Practice\variables\bin\Debug\net8.0\variables.deps.json
+D:\ASPdotNET\Practice\variables\bin\Debug\net8.0\variables.runtimeconfig.json
+D:\ASPdotNET\Practice\variables\bin\Debug\net8.0\variables.dll
+D:\ASPdotNET\Practice\variables\bin\Debug\net8.0\variables.pdb
+D:\ASPdotNET\Practice\variables\obj\Debug\net8.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\Practice\variables\obj\Debug\net8.0\variables.AssemblyInfoInputs.cache
+D:\ASPdotNET\Practice\variables\obj\Debug\net8.0\variables.AssemblyInfo.cs
+D:\ASPdotNET\Practice\variables\obj\Debug\net8.0\variables.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\Practice\variables\obj\Debug\net8.0\variables.dll
+D:\ASPdotNET\Practice\variables\obj\Debug\net8.0\refint\variables.dll
+D:\ASPdotNET\Practice\variables\obj\Debug\net8.0\variables.pdb
+D:\ASPdotNET\Practice\variables\obj\Debug\net8.0\variables.genruntimeconfig.cache
+D:\ASPdotNET\Practice\variables\obj\Debug\net8.0\ref\variables.dll

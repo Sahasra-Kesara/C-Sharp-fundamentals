@@ -1,0 +1,14 @@
+D:\ASPdotNET\Practice\conditionsapp\bin\Debug\net8.0\conditionsapp.exe
+D:\ASPdotNET\Practice\conditionsapp\bin\Debug\net8.0\conditionsapp.deps.json
+D:\ASPdotNET\Practice\conditionsapp\bin\Debug\net8.0\conditionsapp.runtimeconfig.json
+D:\ASPdotNET\Practice\conditionsapp\bin\Debug\net8.0\conditionsapp.dll
+D:\ASPdotNET\Practice\conditionsapp\bin\Debug\net8.0\conditionsapp.pdb
+D:\ASPdotNET\Practice\conditionsapp\obj\Debug\net8.0\conditionsapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\Practice\conditionsapp\obj\Debug\net8.0\conditionsapp.AssemblyInfoInputs.cache
+D:\ASPdotNET\Practice\conditionsapp\obj\Debug\net8.0\conditionsapp.AssemblyInfo.cs
+D:\ASPdotNET\Practice\conditionsapp\obj\Debug\net8.0\conditionsapp.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\Practice\conditionsapp\obj\Debug\net8.0\conditionsapp.dll
+D:\ASPdotNET\Practice\conditionsapp\obj\Debug\net8.0\refint\conditionsapp.dll
+D:\ASPdotNET\Practice\conditionsapp\obj\Debug\net8.0\conditionsapp.pdb
+D:\ASPdotNET\Practice\conditionsapp\obj\Debug\net8.0\conditionsapp.genruntimeconfig.cache
+D:\ASPdotNET\Practice\conditionsapp\obj\Debug\net8.0\ref\conditionsapp.dll
